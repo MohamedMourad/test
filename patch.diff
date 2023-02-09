@@ -1,0 +1,16 @@
+From 660f4bc7af1b487eca79096ff2f2a0145c837ed4 Mon Sep 17 00:00:00 2001
+From: "Bouslama Mourad (IFF ATV BP TMS)" <Mourad.Bouslama@infineon.com>
+Date: Wed, 8 Feb 2023 12:53:33 +0100
+Subject: [PATCH] add empty file
+
+---
+ Hotfix_1.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 Hotfix_1.txt
+
+diff --git a/Hotfix_1.txt b/Hotfix_1.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.29.2.windows.2
+
